@@ -1,2 +1,3 @@
 # gimmepizza
-Gimme Pizza
+
+Everybody loves pizza. 🍕
